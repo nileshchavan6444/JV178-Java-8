@@ -1,5 +1,7 @@
 package Java8Practice;
 
+import java.util.function.Function;
+
 //class Demo implements FunctionInTerfaceDemo 
 //{
 //
